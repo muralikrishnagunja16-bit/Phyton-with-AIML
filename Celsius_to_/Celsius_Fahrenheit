@@ -1,0 +1,3 @@
+a=float (input ("enter the valu to convert Fahrenheit"))
+celsius=(5*(a-32))/9
+print(a," the valuee in celsius",celsius)

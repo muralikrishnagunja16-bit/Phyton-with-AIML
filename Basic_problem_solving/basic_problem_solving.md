@@ -1,4 +1,4 @@
-#celsius_to_fahrenheit
+# celsius_to_fahrenheit
 
 output
 
@@ -8,7 +8,7 @@ enter the valu to convert Fahrenheit100
 
 
 
-#Area_and_Perimeter_of_a_Rectangle
+# Area_and_Perimeter_of_a_Rectangle
 
 output
 
@@ -20,7 +20,7 @@ area of rectangle:  3000.0
 
 perimeter of rectangle: 260.0
 
-#Triangle_Angle_and_Type
+# Triangle_Angle_and_Type
 
 enter the first angle:30
 
@@ -41,4 +41,23 @@ months 2
 weeks 4
 
 remaining 0
+
+# Student_Marks_Calculation
+
+enter marks90
+
+enter marks90
+
+enter marks90
+
+enter marks90
+
+enter marks90
+
+total marks 450
+
+average marks 450
+
+total persentage 90.0 %
+
 

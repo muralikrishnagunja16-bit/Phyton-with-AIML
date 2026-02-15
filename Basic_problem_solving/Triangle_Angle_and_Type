@@ -1,0 +1,10 @@
+a=float (input ("enter the first angle:"))
+b=float(input("enter the second angle:"))
+c=180-(a+b)
+print(c)
+if a==90 or b==90  or c==90 :
+    print("right angle triangle")
+elif a==b or b==c or c==a :
+    print("Isosceles angle triangle")
+else :
+    print("neither")

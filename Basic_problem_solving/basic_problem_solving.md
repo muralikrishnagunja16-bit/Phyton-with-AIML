@@ -19,3 +19,13 @@ breath of the Rectangle:30
 area of rectangle:  3000.0
 
 perimeter of rectangle: 260.0
+
+#Triangle_Angle_and_Type
+
+enter the first angle:30
+
+enter the second angle:40
+
+110.0
+
+neither

@@ -66,3 +66,12 @@ enter your  name :murali
 
 murali
 
+#  Asterisk Pattern
+
+*
+
+***
+
+*****
+
+*******

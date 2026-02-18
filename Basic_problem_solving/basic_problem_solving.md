@@ -60,4 +60,9 @@ average marks 450
 
 total persentage 90.0 %
 
+# print_name
+
+enter your  name :murali
+
+murali
 

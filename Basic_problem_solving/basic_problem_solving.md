@@ -75,3 +75,9 @@ murali
 *****
 
 *******
+
+#  Vertically_Thrown_Particle
+
+enter integer value 5
+
+calculate the time taken to touch the ground 1.0204081632653061

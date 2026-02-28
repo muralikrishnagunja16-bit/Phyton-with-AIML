@@ -1,0 +1,4 @@
+g=9.8
+u=float(input("enter integer value "))
+t=((2*u)/g)
+print("calculate the time taken to touch the ground",t)

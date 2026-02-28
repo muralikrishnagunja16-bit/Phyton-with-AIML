@@ -81,3 +81,9 @@ murali
 enter integer value 5
 
 calculate the time taken to touch the ground 1.0204081632653061
+
+#   Bouncing_Ball_Distance
+
+enter the valur10
+
+the total distncetravelled 25.0

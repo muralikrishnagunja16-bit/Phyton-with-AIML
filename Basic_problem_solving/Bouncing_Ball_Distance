@@ -1,0 +1,4 @@
+y=float(input("enter the valur"))
+g=9.8
+distance=y+2*(y/2)+2*(y/4)
+print("the total distncetravelled",distance)
